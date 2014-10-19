@@ -2,11 +2,16 @@
 <updateinfo>
 <latestversionname id="versionname" versionname="1.0.9"></latestversionname>
 <latestversion id="versioncode" version="20141017"></latestversion>
-<manualdownload id="manualdownload" value="true" ></manualdownload>
+<manualdownload id="manualdownload" value="false" ></manualdownload>
 <apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile4.uf@26457B5054105A160D00F7.apk</apkurl>
 <changelog id="changelog">
-  <content id="changelogcontent"></content>
-<notice1 id="notice1">  </notice1>
-<notice2 id="notice2"> </notice2>
+  <content id="changelogcontent">"
+
+
+"</content>
+<notices id="notices">
+<notice >"※업데이트 도중 패키지 구문 분석 오류시 재다운로드 바람"</notice>
+<notice >"※모바일 환경(3G/LTE/LTE-A)에서 파일을 다운하게 되면 약간의 데이터가 소모되니 주의하세요.(약 400KB)/end_notice"</notice>
+</notices>
 </changelog> 
 </updateinfo>
