@@ -1,1 +1,19 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<online-timetable id="root">
+<monday id="mon">
+
+</monday>
+<tuesday id="tue">
+
+</tuesday>
+<wednesday id="wed">
+
+</wednesday>
+<thursday id="thur">
+
+</thursday>
+<friday id="fri">
+
+</friday>
+
+</online-timetable>
