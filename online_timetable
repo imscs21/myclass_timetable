@@ -1,7 +1,12 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <online-timetable id="root">
 <monday id="mon">
-
+<subject id="1c"></subject>
+<subject id="2c"></subject>
+<subject id="3c"></subject>
+<subject id="4c"></subject>
+<subject id="5c"></subject>
+<subjecy
 </monday>
 <tuesday id="tue">
 
