@@ -1,48 +1,48 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <online-timetable id="root">
 <monday id="mon">
-<subject id="1c"></subject>
-<subject id="2c"></subject>
-<subject id="3c"></subject>
-<subject id="4c"></subject>
-<subject id="5c"></subject>
-<subject id="6c"></subject>
-<subject id="7c"></subject>
+<subject id="1c">화학</subject>
+<subject id="2c">영어</subject>
+<subject id="3c">지구</subject>
+<subject id="4c">문학</subject>
+<subject id="5c">수2</subject>
+<subject id="6c">미술</subject>
+<subject id="7c">미술</subject>
 </monday>
 <tuesday id="tue">
-<subject id="1c"></subject>
-<subject id="2c"></subject>
-<subject id="3c"></subject>
-<subject id="4c"></subject>
-<subject id="5c"></subject>
-<subject id="6c"></subject>
-<subject id="7c"></subject>
+<subject id="1c">수2</subject>
+<subject id="2c">화학</subject>
+<subject id="3c">한문</subject>
+<subject id="4c">체육</subject>
+<subject id="5c">문학</subject>
+<subject id="6c">지구</subject>
+<subject id="7c">영어</subject>
 </tuesday>
 <wednesday id="wed">
-<subject id="1c"></subject>
-<subject id="2c"></subject>
-<subject id="3c"></subject>
-<subject id="4c"></subject>
-<subject id="5c"></subject>
-<subject id="6c"></subject>
-<subject id="7c"></subject>
+<subject id="1c">지구</subject>
+<subject id="2c">체육</subject>
+<subject id="3c">화학</subject>
+<subject id="4c">수2</subject>
+<subject id="5c">영어</subject>
+<subject id="6c">진로</subject>
+<subject id="7c">문학</subject>
 </wednesday>
 <thursday id="thur">
-<subject id="1c"></subject>
-<subject id="2c"></subject>
-<subject id="3c"></subject>
-<subject id="4c"></subject>
-<subject id="5c"></subject>
-<subject id="6c"></subject>
-<subject id="7c"></subject>
+<subject id="1c">수2</subject>
+<subject id="2c">화학</subject>
+<subject id="3c">한문</subject>
+<subject id="4c">문학</subject>
+<subject id="5c">영어</subject>
+<subject id="6c">화학</subject>
+<subject id="7c">지구</subject>
 </thursday>
 <friday id="fri">
-<subject id="1c"></subject>
-<subject id="2c"></subject>
-<subject id="3c"></subject>
-<subject id="4c"></subject>
-<subject id="5c"></subject>
-<subject id="6c"></subject>
+<subject id="1c">수2</subject>
+<subject id="2c">문학</subject>
+<subject id="3c">지구</subject>
+<subject id="4c">자율</subject>
+<subject id="5c">(C.A)</subject>
+<subject id="6c">(C.A)</subject>
 <subject id="7c"></subject>
 </friday>
 
