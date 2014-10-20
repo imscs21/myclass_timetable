@@ -29,6 +29,15 @@
 <subject id="7c">문학</subject>
 </wednesday>
 <thursday id="thur">
+<subject id="1c">자율</subject>
+<subject id="2c">자율</subject>
+<subject id="3c">자율</subject>
+<subject id="4c">수2</subject>
+<subject id="5c">문학</subject>
+<subject id="6c">지구</subject>
+<subject id="7c">""</subject>
+</thursday>
+<friday id="fri">
 <subject id="1c">수2</subject>
 <subject id="2c">화학</subject>
 <subject id="3c">한문</subject>
@@ -36,15 +45,6 @@
 <subject id="5c">영어</subject>
 <subject id="6c">화학</subject>
 <subject id="7c">지구</subject>
-</thursday>
-<friday id="fri">
-<subject id="1c">수2</subject>
-<subject id="2c">문학</subject>
-<subject id="3c">지구</subject>
-<subject id="4c">자율</subject>
-<subject id="5c">(C.A)</subject>
-<subject id="6c">(C.A)</subject>
-<subject id="7c">""</subject>
 </friday>
 
 </online-timetable>
