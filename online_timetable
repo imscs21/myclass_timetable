@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <!-- 빈 공간으로 남겨두고 싶을 때 바로 공백으로 처리하지말고 ""으로 꼭 정의해야함 -->
-<online-timetable id="root">
+<online-timetable id="root" classroom="2-11">
 <!-- 2-11 시간표 -->
 <monday id="mon">
 <subject id="1c">화학</subject>
