@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<!-- 빈 공간으로 남겨두고 싶을 때 바로 공백으로 처리하지말고 ""으로 꼭 정의해야함 -->
 <online-timetable id="root" classroom="2-11">
 <!-- 2-11 시간표 -->
 <monday id="mon">
@@ -30,9 +29,9 @@
 <subject id="7c">문학</subject>
 </wednesday>
 <thursday id="thur">
-<subject id="1c">자율</subject>
-<subject id="2c">자율</subject>
-<subject id="3c">자율</subject>
+<subject id="1c">특활</subject>
+<subject id="2c">특활</subject>
+<subject id="3c">특활</subject>
 <subject id="4c">수2</subject>
 <subject id="5c">문학</subject>
 <subject id="6c">지구</subject>
