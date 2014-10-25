@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<online-timetable id="root" classroom="2-111">
+<online-timetable id="root" classroom="2-11">
 <!-- 2-11 시간표 -->
 <monday id="mon">
 <subject id="1c">화학</subject>
