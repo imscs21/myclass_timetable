@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<online-timetable id="root" classroom="2-11">
+<online-timetable id="root" classroom="2-111">
 <!-- 2-11 시간표 -->
 <monday id="mon">
 <subject id="1c">화학</subject>
@@ -29,15 +29,6 @@
 <subject id="7c">문학</subject>
 </wednesday>
 <thursday id="thur">
-<subject id="1c">특활</subject>
-<subject id="2c">특활</subject>
-<subject id="3c">특활</subject>
-<subject id="4c">수2</subject>
-<subject id="5c">문학</subject>
-<subject id="6c">지구</subject>
-<subject id="7c">""</subject>
-</thursday>
-<friday id="fri">
 <subject id="1c">수2</subject>
 <subject id="2c">화학</subject>
 <subject id="3c">한문</subject>
@@ -45,6 +36,15 @@
 <subject id="5c">영어</subject>
 <subject id="6c">화학</subject>
 <subject id="7c">지구</subject>
+</thursday>
+<friday id="fri">
+<subject id="1c">수2</subject>
+<subject id="2c">문학</subject>
+<subject id="3c">지구</subject>
+<subject id="4c">자율</subject>
+<subject id="5c">(C.A)</subject>
+<subject id="6c">(C.A)</subject>
+<subject id="7c">""</subject>
 </friday>
 
 </online-timetable>
