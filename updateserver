@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
-<latestversionname id="versionname" versionname="1.0.9"></latestversionname>
-<latestversion id="versioncode" version="20141022"></latestversion>
+<latestversionname id="versionname" versionname="1.0.10"></latestversionname>
+<latestversion id="versioncode" version="20141101"></latestversion>
 <manualdownload id="manualdownload" value="false" ></manualdownload>
 <apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile4.uf@26457B5054105A160D00F7.apk</apkurl>
 <changelog id="changelog">
@@ -23,3 +23,4 @@
 
 <Developer-Info id="dev_info" developer="HSH">http://hsh97.tistory.com</Developer-Info>
 </updateinfo>
+<!-- LS -->
