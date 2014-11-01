@@ -3,15 +3,15 @@
 <latestversionname id="versionname" versionname="1.0.10"></latestversionname>
 <latestversion id="versioncode" version="20141101"></latestversion>
 <manualdownload id="manualdownload" value="false" ></manualdownload>
-<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile4.uf@26457B5054105A160D00F7.apk</apkurl>
+<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile6.uf@2403E24A5454633919166C.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
 
--온라인 시간표기능 추가(더보기 메뉴확인)
+-2학기 기말고사 시간표 추가
 
--업데이트 확인 방식 변경
+-화면 전환 방식 변경
 
--중간고사 시간표 잔해 제거및 불필요 요소 제거  
+-타이틀색 조금 변경
 
 </content>
 <notices id="notices">
