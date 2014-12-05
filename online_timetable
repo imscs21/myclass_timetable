@@ -38,13 +38,13 @@
 <subject id="7c">지구</subject>
 </thursday>
 <friday id="fri">
-<subject id="1c">지구</subject>
-<subject id="2c">체육</subject>
-<subject id="3c">화학</subject>
-<subject id="4c">수2</subject>
-<subject id="5c">영어</subject>
-<subject id="6c">진로</subject>
-<subject id="7c">문학</subject>
+<subject id="1c">수학</subject>
+<subject id="2c">문학</subject>
+<subject id="3c">지구</subject>
+<subject id="4c">자율</subject>
+<subject id="5c">(C.A)</subject>
+<subject id="6c">(C.A)</subject>
+<subject id="7c">""</subject>
 </friday>
 
 </online-timetable>
