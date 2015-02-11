@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
-<latestversionname id="versionname" versionname="1.0.10"></latestversionname>
-<latestversion id="versioncode" version="20141102"></latestversion>
+<latestversionname id="versionname" versionname="1.1.4"></latestversionname>
+<latestversion id="versioncode" version="20150211"></latestversion>
 <manualdownload id="manualdownload" value="false" ></manualdownload>
-<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile5.uf@226F063E54546826370EBC.apk</apkurl>
+<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile4.uf@250C4F3E54DB6F7F01A916.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
 
--2학기 기말고사 시간표 추가
+- 7반,9반,10반,12반 시간표 추가
 
--화면 전환 방식 변경
+- 스타일 설정추가
 
--타이틀색 조금 변경
+- 타이틀색 설정추가
 
 </content>
 <notices id="notices">
 <notice>-----------------------------</notice>
 <notice>※업데이트 도중 패키지 구문 분석 오류시 재다운로드 바람</notice>
-<notice>※모바일 환경(3G/LTE/LTE-A)에서 파일을 다운하게 되면 약간의 데이터가 소모되니 주의하세요.(약 450KB)/end_notice</notice>
+<notice>※모바일 환경(3G/LTE/LTE-A)에서 파일을 다운하게 되면 약간의 데이터가 소모되니 주의하세요.(약 550KB)/end_notice</notice>
 </notices>
 </changelog> 
 
 <Developer-Info id="dev_info" developer="HSH">http://hsh97.tistory.com</Developer-Info>
 </updateinfo>
-<!-- LS -->
+<!-- Like Server -->
