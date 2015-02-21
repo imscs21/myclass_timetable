@@ -18,7 +18,7 @@
 </content>
 <notices id="notices">
 <notice>-----------------------------</notice>
-<notice><h1><font color="#00ff00">※</font></h1>업데이트 도중 패키지 구문 분석 오류시 재다운로드 바람</notice>
+<notice><font color="#00ff00">※</font>업데이트 도중 패키지 구문 분석 오류시 재다운로드 바람</notice>
 <notice> </notice>
 <notice><h1>※</h1>모바일 환경(3G/LTE/LTE-A)에서 파일을 다운하게 되면 약간의 데이터가 소모되니 주의하세요.(약 550KB)/end_notice</notice>
 </notices>
