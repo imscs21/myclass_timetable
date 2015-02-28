@@ -1,26 +1,23 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
 <latestversionname id="versionname" versionname="1.1.4"></latestversionname>
-<latestversion id="versioncode" version="20150211"></latestversion>
-<manualdownload id="manualdownload" value="false" ></manualdownload>
-<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile4.uf@250C4F3E54DB6F7F01A916.apk</apkurl>
+<latestversion id="versioncode" version="20150301"></latestversion>
+<manualdownload id="manualdownload" value="true" ></manualdownload>
+<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile21.uf@240D7E4354F1BB4308989E.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
 
-- 7반,9반,10반,12반 시간표 추가
+-3학년 임시시간표 추가
 
--기말고사 시간표제거
+-초기 업데이트
 
-- 스타일 설정추가
-
-- 타이틀색 설정추가
 
 </content>
 <notices id="notices">
 <notice>-----------------------------</notice>
 <notice>※업데이트 도중 패키지 구문 분석 오류시 재다운로드 바람</notice>
 <notice> </notice>
-<notice>※모바일 환경(3G/LTE/LTE-A)에서 파일을 다운하게 되면 약간의 데이터가 소모되니 주의하세요.(약 550KB)/end_notice</notice>
+<notice>※모바일 환경(3G/LTE/LTE-A)에서 파일을 다운하게 되면 약간의 데이터가 소모되니 주의하세요.(약 900KB)/end_notice</notice>
 </notices>
 </changelog> 
 
