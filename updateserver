@@ -2,7 +2,7 @@
 <updateinfo>
 <latestversionname id="versionname" versionname="0.98 (2015.3.1)"></latestversionname>
 <latestversion id="versioncode" version="20150301"></latestversion>
-<manualdownload id="manualdownload" value="false" ></manualdownload>
+<manualdownload id="manualdownload" value="true" ></manualdownload>
 <apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile21.uf@240D7E4354F1BB4308989E.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
