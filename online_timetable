@@ -55,7 +55,6 @@
 
 <!-- 3-9 원래 시간표 since 2015-03-01 -->
 <!-- <online-timetable id="root" classroom="3-9">
-<!-- 3-9 시간표 -->
 <monday id="mon">
 <subject id="1c">물리</subject>
 <subject id="2c">독문</subject>
