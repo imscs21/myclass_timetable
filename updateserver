@@ -1,15 +1,20 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
-<latestversionname id="versionname" versionname="0.98 (2015.3.1)"></latestversionname>
-<latestversion id="versioncode" version="20150301"></latestversion>
+<latestversionname id="versionname" versionname="0.99 (2015.3.1)"></latestversionname>
+<latestversion id="versioncode" version="20150302"></latestversion>
 <manualdownload id="manualdownload" value="true" ></manualdownload>
-<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile21.uf@240D7E4354F1BB4308989E.apk</apkurl>
+<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile3.uf@2333364E54F3133C27F4FA.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
 
+ <- 0.98 ver ->
 -3학년 임시시간표 추가
 
 -초기 업데이트
+
+<- 0.99 ver ->
+
+-잠재적인 오류 일부 해결 
 
 </content>
 <notices id="notices">
