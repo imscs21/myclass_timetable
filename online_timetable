@@ -42,9 +42,9 @@
 <subject id="2c">독문</subject>
 <subject id="3c">일어</subject>
 <subject id="4c">적통</subject>
-<subject id="5c">""</subject>
-<subject id="6c>""</subject>
-<subject id="7c">""</subject>
+<subject id="5c">" "</subject>
+<subject id="6c">" "</subject>
+<subject id="7c">" "</subject>
 </friday>
 
 </online-timetable>
