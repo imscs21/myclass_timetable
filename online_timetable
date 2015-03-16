@@ -7,8 +7,8 @@
 <subject id="3c">영작</subject>
 <subject id="4c">도덕</subject>
 <subject id="5c">적통</subject>
-<subject id="6c">체육</subject>
-<subject id="7c">일어</subject>
+<subject id="6c">영듣</subject>
+<subject id="7c">일/중</subject>
 </monday> 
 <tuesday id="tue">
 <subject id="1c">적통</subject>
@@ -21,17 +21,17 @@
 </tuesday>
 <wednesday id="wed">
 <subject id="1c">기벡</subject>
-<subject id="2c">물리</subject>
-<subject id="3c">적통</subject>
+<subject id="2c">적통</subject>
+<subject id="3c">물리</subject>
 <subject id="4c">영작</subject>
-<subject id="5c">환경</subject>
+<subject id="5c">진로</subject>
 <subject id="6c">독문</subject>
 <subject id="7c">창체</subject>
 </wednesday>
 <thursday id="thur">
 <subject id="1c">독문</subject>
-<subject id="2c">진로</subject>
-<subject id="3c">영듣</subject>
+<subject id="2c">환경</subject>
+<subject id="3c">체육</subject>
 <subject id="4c">기벡</subject>
 <subject id="5c">적통</subject>
 <subject id="6c">물리</subject>
@@ -40,7 +40,7 @@
 <friday id="fri">
 <subject id="1c">영작</subject>
 <subject id="2c">독문</subject>
-<subject id="3c">일어</subject>
+<subject id="3c">일/중</subject>
 <subject id="4c">적통</subject>
 <subject id="5c">창체</subject>
 <subject id="6c">창체</subject>
@@ -53,7 +53,7 @@
 
 
 
-<!-- 3-9 원래 시간표 since 2015-03-01 -->
+<!-- 3-9 원래 시간표 since 2015-03-16 -->
 <!-- <online-timetable id="root" classroom="3-9">
 <monday id="mon">
 <subject id="1c">물리</subject>
@@ -61,31 +61,31 @@
 <subject id="3c">영작</subject>
 <subject id="4c">도덕</subject>
 <subject id="5c">적통</subject>
-<subject id="6c">스문</subject>
-<subject id="7c">일어</subject>
-</monday>
+<subject id="6c">영듣</subject>
+<subject id="7c">일/중</subject>
+</monday> 
 <tuesday id="tue">
 <subject id="1c">적통</subject>
 <subject id="2c">물리</subject>
 <subject id="3c">환경</subject>
-<subject id="4c">스문</subject>
+<subject id="4c">체육</subject>
 <subject id="5c">기벡</subject>
 <subject id="6c">독문</subject>
 <subject id="7c">영작</subject>
 </tuesday>
 <wednesday id="wed">
 <subject id="1c">기벡</subject>
-<subject id="2c">물리</subject>
-<subject id="3c">적통</subject>
+<subject id="2c">적통</subject>
+<subject id="3c">물리</subject>
 <subject id="4c">영작</subject>
-<subject id="5c">환경</subject>
+<subject id="5c">진로</subject>
 <subject id="6c">독문</subject>
-<subject id="7c">""</subject>
+<subject id="7c">창체</subject>
 </wednesday>
 <thursday id="thur">
 <subject id="1c">독문</subject>
-<subject id="2c">진로</subject>
-<subject id="3c">영작</subject>
+<subject id="2c">환경</subject>
+<subject id="3c">체육</subject>
 <subject id="4c">기벡</subject>
 <subject id="5c">적통</subject>
 <subject id="6c">물리</subject>
@@ -94,11 +94,11 @@
 <friday id="fri">
 <subject id="1c">영작</subject>
 <subject id="2c">독문</subject>
-<subject id="3c">일어</subject>
+<subject id="3c">일/중</subject>
 <subject id="4c">적통</subject>
-<subject id="5c">""</subject>
-<subject id="6c">""</subject>
-<subject id="7c">""</subject>
+<subject id="5c">창체</subject>
+<subject id="6c">창체</subject>
+<subject id="7c">" "</subject>
 </friday>
 
 </online-timetable> -->
