@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
 <latestversionname id="versionname" versionname="1.01"></latestversionname>
-<latestversion id="versioncode" version="20150403"></latestversion>
-<manualdownload id="manualdownload" value="true" ></manualdownload>
+<latestversion id="versioncode" version="20150402"></latestversion>
+<manualdownload id="manualdownload" value="false" ></manualdownload>
 <apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile8.uf@2769CD3C551D4DF718C32B.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
