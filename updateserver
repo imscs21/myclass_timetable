@@ -1,15 +1,21 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
-<latestversionname id="versionname" versionname="1.00"></latestversionname>
-<latestversion id="versioncode" version="20150316"></latestversion>
-<manualdownload id="manualdownload" value="false" ></manualdownload>
-<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile27.uf@2629C6465506A25E2AEFEE.apk</apkurl>
+<latestversionname id="versionname" versionname="1.01"></latestversionname>
+<latestversion id="versioncode" version="20150402"></latestversion>
+<manualdownload id="manualdownload" value="true" ></manualdownload>
+<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile8.uf@2769CD3C551D4DF718C32B.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
 
-- 9반 시간표 수정
+- 수동 설정가능 시간표 추가
 
-- 1~8, 10~12반 글씨깨짐현상 수정, 시간표 1차 수정
+- 일부 시간표 2차 수정
+
+-기존 타이틀 색 색조변경 및 색상 추가 
+
+-불필요 리소스 제거
+
+-특정 오류 수정
 
 </content>
 <notices id="notices">
