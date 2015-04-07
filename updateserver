@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
-<latestversionname id="versionname" versionname="1.01"></latestversionname>
-<latestversion id="versioncode" version="20150403"></latestversion>
+<latestversionname id="versionname" versionname="1.02"></latestversionname>
+<latestversion id="versioncode" version="20150407"></latestversion>
 <manualdownload id="manualdownload" value="false" ></manualdownload>
-<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile1.uf@252AEE3C551D58A32BF130.apk</apkurl>
+<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile22.uf@231EA9475523DE620EF59C.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
+   << 1.02 Ver >>
+-시험시간표 추가
 
+
+   << 1.01 Ver >>
 - 수동 설정가능 시간표 추가
 
 - 일부 시간표 2차 수정
