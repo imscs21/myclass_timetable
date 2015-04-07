@@ -31,11 +31,11 @@
 <thursday id="thur">
 <subject id="1c">4</subject>
 <subject id="2c">월</subject>
-<subject id="3c">모</subject>
-<subject id="4c">의</subject>
-<subject id="5c">고</subject>
-<subject id="6c">사</subject>
-<subject id="7c">""</subject>
+<subject id="3c">""</subject>
+<subject id="4c">모</subject>
+<subject id="5c">의</subject>
+<subject id="6c">고</subject>
+<subject id="7c">사</subject>
 </thursday>
 <friday id="fri">
 <subject id="1c">영작</subject>
