@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
 <latestversionname id="versionname" versionname="1.02"></latestversionname>
-<latestversion id="versioncode" version="20150407"></latestversion>
+<latestversion id="versioncode" version="20150408"></latestversion>
 <manualdownload id="manualdownload" value="false" ></manualdownload>
-<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile22.uf@231EA9475523DE620EF59C.apk</apkurl>
+<apkurl id="apkurl">http://blogattach.naver.com/e376ff455a6869def3197440749ae99c3d699635/20150407_143_blogfile/imscs21_1428416136598_W3hGc3_apk/3_09_timetable_1.02Re.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
    == 1.02 Ver ==
