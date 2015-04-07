@@ -29,13 +29,13 @@
 <subject id="7c">창체</subject>
 </wednesday>
 <thursday id="thur">
-<subject id="1c">독문</subject>
-<subject id="2c">환경</subject>
-<subject id="3c">체육</subject>
-<subject id="4c">기벡</subject>
-<subject id="5c">적통</subject>
-<subject id="6c">물리</subject>
-<subject id="7c">도덕</subject>
+<subject id="1c">4</subject>
+<subject id="2c">월</subject>
+<subject id="3c">모</subject>
+<subject id="4c">의</subject>
+<subject id="5c">고</subject>
+<subject id="6c">사</subject>
+<subject id="7c">""</subject>
 </thursday>
 <friday id="fri">
 <subject id="1c">영작</subject>
@@ -102,3 +102,4 @@
 </friday>
 
 </online-timetable> -->
+
