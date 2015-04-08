@@ -3,9 +3,11 @@
 <latestversionname id="versionname" versionname="1.02"></latestversionname>
 <latestversion id="versioncode" version="20150408"></latestversion>
 <manualdownload id="manualdownload" value="false" ></manualdownload>
-<apkurl id="apkurl">https://github.com/imscs21/goldwave/releases/download/3%ED%95%99%EB%85%84%EC%8B%9C%EA%B0%84%ED%91%9C/3_09_timetable_1.02Re.apk</apkurl>
+<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile10.uf@2433203B5524E5E837045C.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
+※(4/8) 업데이트불가 문제 해결※
+
    == 1.02 Ver ==
 -시험시간표 추가
 
