@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <online-timetable id="root" classroom="3-9">
 <!-- 3-9 시간표 -->
+<monday id="mon">
 <subject id="1c">개</subject>
 <subject id="2c">교</subject>
 <subject id="3c">""</subject>
