@@ -1,36 +1,24 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
-<latestversionname id="versionname" versionname="1.02"></latestversionname>
-<latestversion id="versioncode" version="20150408"></latestversion>
+<latestversionname id="versionname" versionname="1.03"></latestversionname>
+<latestversion id="versioncode" version="20150412"></latestversion>
 <manualdownload id="manualdownload" value="false" ></manualdownload>
-<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile10.uf@2433203B5524E5E837045C.apk</apkurl>
+<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile26.uf@27026C45552A69C5026A0E.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
-※(04/08) 업데이트불가 문제 해결※
+
+   == 1.03 Ver ==
+-잠재적 오류 수정
 
    == 1.02 Ver ==
 -시험시간표 추가
-
-
-   == 1.01 Ver ==
-- 수동 설정가능 시간표 추가
-
-- 일부 시간표 2차 수정
-
--기존 타이틀 색 색조변경 및 색상 추가 
-
--불필요 리소스 제거
-
--일부 요소 배치위치 수정
-
--특정 오류 수정
 
 </content>
 <notices id="notices">
 <notice>-----------------------------</notice>
 <notice>※업데이트 도중 패키지 구문 분석 오류시 재다운로드 바람</notice>
 <notice> </notice>
-<notice>※모바일 환경(3G/LTE/LTE-A)에서 파일을 다운하게 되면 약간의 데이터가 소모되니 주의하세요.(약 900KB)/end_notice</notice>
+<notice>※모바일 환경(3G/LTE/LTE-A)에서 파일을 다운하게 되면 약간의 데이터가 소모되니 주의하세요.(약 920KB)/end_notice</notice>
 </notices>
 </changelog> 
 
