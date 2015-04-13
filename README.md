@@ -9,4 +9,4 @@
 ######This app is supported only korean.
 
 
-+ For ####All user: [![Alt text](https://developer.android.com/images/brand/en_generic_rgb_wo_60.png "Get it on Google Play site")](https://play.google.com/store/apps/details?id=thirdgrade.timetable)
++ #### For All user: [![Alt text](https://developer.android.com/images/brand/en_generic_rgb_wo_60.png "Get it on Google Play site")](https://play.google.com/store/apps/details?id=thirdgrade.timetable)
