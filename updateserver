@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
-<latestversionname id="versionname" versionname="1.04"></latestversionname>
-<latestversion id="versioncode" version="20150505"></latestversion>
+<latestversionname id="versionname" versionname="1.05"></latestversionname>
+<latestversion id="versioncode" version="20150613"></latestversion>
 <manualdownload id="manualdownload" value="false" ></manualdownload>
-<downloadedfilecheck id="filecheck" enabled="true" value="0D4414BE" apkversioncode="20150505"></downloadedfilecheck>
-<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile1.uf@214F703755488D7E2CBAD4.apk</apkurl>
+<downloadedfilecheck id="filecheck" enabled="false" value="0D4414BE" apkversioncode="20150505"></downloadedfilecheck>
+<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile21.uf@257CB043557C3E771DB7BC.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
 
-- 중간고사 시간표 제거
+- 수동 시간표2 추가
 
-- 애플리케이션 설정 추가
+- 빠른 보기 기능추가(앱설정확인)
 
-- 특정 이미지 변경
+- 바로가기 최초이름 변경
 
 </content>
 <notices id="notices">
