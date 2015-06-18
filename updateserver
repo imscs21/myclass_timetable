@@ -2,7 +2,7 @@
 <updateinfo>
 <latestversionname id="versionname" versionname="1.06"></latestversionname>
 <latestversion id="versioncode" version="20150617"></latestversion>
-<manualdownload id="manualdownload" value="true" ></manualdownload>
+<manualdownload id="manualdownload" value="false" ></manualdownload>
 <downloadedfilecheck id="filecheck" enabled="true" value="C1504EF5" apkversioncode="20150617"></downloadedfilecheck>
 <apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile26.uf@2130A4475581770918216B.apk</apkurl>
 <changelog id="changelog">
