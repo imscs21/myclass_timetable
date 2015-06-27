@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
-<latestversionname id="versionname" versionname="1.06"></latestversionname>
-<latestversion id="versioncode" version="20150617"></latestversion>
+<latestversionname id="versionname" versionname="1.06Re"></latestversionname>
+<latestversion id="versioncode" version="20150618"></latestversion>
 <manualdownload id="manualdownload" value="true" ></manualdownload>
 <downloadedfilecheck id="filecheck" enabled="true" value="C1504EF5" apkversioncode="20150617"></downloadedfilecheck>
 <apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile26.uf@2130A4475581770918216B.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
+
+※현재의 내용과 목적에 맞지않는 내용이 있다면  파일과 함께 imscs21@naver.com 으로 신고주십시오(제3자에 의해 수정될 확률이 높습니다)
 
    == 1.06Ver ==
 - 1학기 기말고사 시간표 추가
