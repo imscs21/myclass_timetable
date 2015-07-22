@@ -8,7 +8,7 @@
 <changelog id="changelog">
 <content id="changelogcontent">
 
--일일 시간표 알림이 오전12시(점심)에 알리는 현상 수정
+-일일 시간표 알림이, 오후12시(점심)에 알리는 현상 수정
 
 </content>
 <notices id="notices">
