@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
 <latestversionname id="versionname" versionname="1.07"></latestversionname>
-<latestversion id="versioncode" version="20150722"></latestversion>
+<latestversion id="versioncode" version="20150711"></latestversion>
 <manualdownload id="manualdownload" value="false" ></manualdownload>
 <downloadedfilecheck id="filecheck" enabled="true" value="AD3D9348" apkversioncode="20150722"></downloadedfilecheck>
 <apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile28.uf@2539154655AF80FB07CDD5.apk</apkurl>
