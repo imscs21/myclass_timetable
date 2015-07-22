@@ -2,48 +2,48 @@
 <online-timetable id="root" classroom="3-9">
 <!-- 3-9 시간표 -->
 <monday id="mon">
-<subject id="1c">물리</subject>
-<subject id="2c">독문</subject>
-<subject id="3c">영작</subject>
-<subject id="4c">도덕</subject>
-<subject id="5c">적통</subject>
-<subject id="6c">영듣</subject>
-<subject id="7c">일/중</subject>
+<subject id="1c">8</subject>
+<subject id="2c">까</subject>
+<subject id="3c">""</subject>
+<subject id="4c">8</subject>
+<subject id="5c">날</subject>
+<subject id="6c">""</subject>
+<subject id="7c">""</subject>
 </monday>  
 <tuesday id="tue">
-<subject id="1c">적통</subject>
-<subject id="2c">물리</subject>
-<subject id="3c">환경</subject>
-<subject id="4c">체육</subject>
-<subject id="5c">기벡</subject>
-<subject id="6c">독문</subject>
-<subject id="7c">영작</subject>
+<subject id="1c">월</subject>
+<subject id="2c">지</subject>
+<subject id="3c">""</subject>
+<subject id="4c">""</subject>
+<subject id="5c">""</subject>
+<subject id="6c">""</subject>
+<subject id="7c">""</subject>
 </tuesday>
 <wednesday id="wed">
-<subject id="1c">기벡</subject>
-<subject id="2c">적통</subject>
-<subject id="3c">물리</subject>
-<subject id="4c">영작</subject>
-<subject id="5c">진로</subject>
-<subject id="6c">독문</subject>
-<subject id="7c">창체</subject>
+<subject id="1c">""</subject>
+<subject id="2c">방</subject>
+<subject id="3c">""</subject>
+<subject id="4c">등</subject>
+<subject id="5c">""</subject>
+<subject id="6c">""</subject>
+<subject id="7c">""</subject>
 </wednesday>
 <thursday id="thur">
-<subject id="1c">독문</subject>
-<subject id="2c">환경</subject>
-<subject id="3c">체육</subject>
-<subject id="4c">기벡</subject>
-<subject id="5c">적통</subject>
-<subject id="6c">물리</subject>
-<subject id="7c">도덕</subject>
+<subject id="1c">16</subject>
+<subject id="2c">학</subject>
+<subject id="3c">""</subject>
+<subject id="4c">17</subject>
+<subject id="5c">교</subject>
+<subject id="6c">""</subject>
+<subject id="7c">""</subject>
 </thursday>
 <friday id="fri">
-<subject id="1c">영작</subject>
-<subject id="2c">독문</subject>
-<subject id="3c">일/중</subject>
-<subject id="4c">적통</subject>
-<subject id="5c">창체</subject>
-<subject id="6c">창체</subject>
+<subject id="1c">일</subject>
+<subject id="2c">""</subject>
+<subject id="3c">""</subject>
+<subject id="4c">일</subject>
+<subject id="5c">""</subject>
+<subject id="6c">""</subject>
 <subject id="7c">" "</subject>
 </friday>
 </online-timetable>
