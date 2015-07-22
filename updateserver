@@ -1,16 +1,14 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
 <latestversionname id="versionname" versionname="1.07"></latestversionname>
-<latestversion id="versioncode" version="20150712"></latestversion>
+<latestversion id="versioncode" version="20150722"></latestversion>
 <manualdownload id="manualdownload" value="false" ></manualdownload>
-<downloadedfilecheck id="filecheck" enabled="true" value="A7629715" apkversioncode="20150712"></downloadedfilecheck>
-<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile27.uf@2376204255A1B8E2311D0C.apk</apkurl>
+<downloadedfilecheck id="filecheck" enabled="true" value="AD3D9348" apkversioncode="20150722"></downloadedfilecheck>
+<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile28.uf@2539154655AF80FB07CDD5.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
 
-- 수동 시간표 1,2 치명적인 오류수정
-
-- 시간표 일일 알림이 추가(앱설정 확인)
+-일일 시간표 알림이 오전12시(점심)에 알리는 현상 수정
 
 </content>
 <notices id="notices">
