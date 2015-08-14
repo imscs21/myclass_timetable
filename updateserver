@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
-<latestversionname id="versionname" versionname="1.08"></latestversionname>
+<latestversionname id="versionname" versionname="1.08(1학기)"></latestversionname>
 <latestversion id="versioncode" version="20150722"></latestversion>
-<manualdownload id="manualdownload" value="false" ></manualdownload>
+<manualdownload id="manualdownload" value="true" ></manualdownload>
 <downloadedfilecheck id="filecheck" enabled="true" value="E03FE565" apkversioncode="20150722"></downloadedfilecheck>
 <apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile27.uf@223B293655AF85332BBD83.apk</apkurl>
 <changelog id="changelog">
