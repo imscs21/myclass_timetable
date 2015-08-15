@@ -1,21 +1,31 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
-<latestversionname id="versionname" versionname="1.08(1학기)"></latestversionname>
-<latestversion id="versioncode" version="20150722"></latestversion>
+<latestversionname id="versionname" versionname="1.10(2학기)"></latestversionname>
+<latestversion id="versioncode" version="20150815"></latestversion>
 <manualdownload id="manualdownload" value="true" ></manualdownload>
-<downloadedfilecheck id="filecheck" enabled="true" value="E03FE565" apkversioncode="20150722"></downloadedfilecheck>
-<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile27.uf@223B293655AF85332BBD83.apk</apkurl>
+<downloadedfilecheck id="filecheck" enabled="true" value="78E3E2E" apkversioncode="20150815"></downloadedfilecheck>
+<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile3.uf@261BDF3C55CED02C1E2612.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
 
--일일 시간표 알림이, 오후12시(점심)에 알리는 현상 수정
+-2학기 임시시간표로 변경
+
+-진저브레드지원(안드로이드 2.3)
+
+-일일 시간표알림이 기기재부팅시 동작안됨 현상수정
+
+-수동시간표 백업/복구기능 추가
+
+-약간의 디자인 수정
+
+-랜덤색상기능 추가
 
 </content>
 <notices id="notices">
 <notice>-----------------------------</notice>
 <notice>※업데이트 도중 패키지 구문 분석 오류시 재다운로드 바람</notice>
 <notice> </notice>
-<notice>※모바일 환경(3G/LTE/LTE-A)에서 파일을 다운하게 되면 약간의 데이터가 소모되니 주의하세요.(약 1.9MB)/end_notice</notice>
+<notice>※모바일 환경(3G/LTE/LTE-A)에서 파일을 다운하게 되면 데이터가 소모되니 주의하세요.(약 1.9MB)/end_notice</notice>
 </notices>
 </changelog> 
 
