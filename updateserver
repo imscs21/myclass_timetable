@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
 <latestversionname id="versionname" versionname="1.10(2학기)"></latestversionname>
-<latestversion id="versioncode" version="20150515"></latestversion>
+<latestversion id="versioncode" version="20140816"></latestversion>
 <manualdownload id="manualdownload" value="true" ></manualdownload>
 <downloadedfilecheck id="filecheck" enabled="true" value="78E3E2E" apkversioncode="20150815"></downloadedfilecheck>
 <apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile3.uf@261BDF3C55CED02C1E2612.apk</apkurl>
