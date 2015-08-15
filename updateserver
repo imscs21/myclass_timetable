@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
-<latestversionname id="versionname" versionname="1.10(2학기)"></latestversionname>
-<latestversion id="versioncode" version="20140816"></latestversion>
+<latestversionname id="versionname" versionname="1.11(2학기)"></latestversionname>
+<latestversion id="versioncode" version="20150816"></latestversion>
 <manualdownload id="manualdownload" value="true" ></manualdownload>
-<downloadedfilecheck id="filecheck" enabled="true" value="78E3E2E" apkversioncode="20150815"></downloadedfilecheck>
-<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile3.uf@261BDF3C55CED02C1E2612.apk</apkurl>
+<downloadedfilecheck id="filecheck" enabled="true" value="613731F3" apkversioncode="20150816"></downloadedfilecheck>
+<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile26.uf@242ABF4F55CEDEC321FEB9.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
+  ==1.11 ver==
+-진저브레드 실행불가 문제 수정
 
+  ==1.10 ver==
 -2학기 임시시간표로 변경
 
 -진저브레드지원(안드로이드 2.3)
