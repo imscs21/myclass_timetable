@@ -2,7 +2,7 @@
 <updateinfo>
 <latestversionname id="versionname" versionname="1.11(2학기)"></latestversionname>
 <latestversion id="versioncode" version="20150816"></latestversion>
-<manualdownload id="manualdownload" value="true" ></manualdownload>
+<manualdownload id="manualdownload" value="false" ></manualdownload>
 <downloadedfilecheck id="filecheck" enabled="true" value="613731F3" apkversioncode="20150816"></downloadedfilecheck>
 <apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile26.uf@242ABF4F55CEDEC321FEB9.apk</apkurl>
 <changelog id="changelog">
