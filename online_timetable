@@ -8,7 +8,7 @@
 <subject id="4c">환경</subject>
 <subject id="5c">물리</subject>
 <subject id="6c">화작(국)</subject>
-<subject id="7c">수연2(적통)</subject>
+<subject id="7c">적통</subject>
 </monday>  
 <tuesday id="tue">
 <subject id="1c">영어</subject>
@@ -16,21 +16,21 @@
 <subject id="3c">물리</subject>
 <subject id="4c">도덕</subject>
 <subject id="5c">진로</subject>
-<subject id="6c">적통</subject>
+<subject id="6c">수연2(적통)</subject>
 <subject id="7c">화작(국)</subject>
 </tuesday>
 <wednesday id="wed">
 <subject id="1c">기벡</subject>
 <subject id="2c">영어</subject>
 <subject id="3c">도덕</subject>
-<subject id="4c">적통(수연2)</subject>
+<subject id="4c">적통</subject>
 <subject id="5c">체육</subject>
 <subject id="6c">화작(국)</subject>
 <subject id="7c">""</subject>
 </wednesday>
 <thursday id="thur">
 <subject id="1c">화작(국)</subject>
-<subject id="2c">적통</subject>
+<subject id="2c">적통(수연2)</subject>
 <subject id="3c">영어</subject>
 <subject id="4c">환경</subject>
 <subject id="5c">기하</subject>
