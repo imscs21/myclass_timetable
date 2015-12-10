@@ -9,22 +9,22 @@
 		<subject value="국어"/>
 		
 	</tableobj>
-	<tableobj header="2">
+	<tableobj header="loaded">
 		<subject value="2,1"/>
 		<subject value="2,2"/>
 		<subject value="2,3"/>
 	</tableobj>
-		<tableobj header="third">
+		<tableobj header="from">
 			<subject value="3,1"/>
 			<subject value="3,2"/>
 			<subject value="3,3"/>
 		</tableobj>
-		<tableobj header="fourth">
+		<tableobj header="web">
 			<subject value="4,1"/>
 			<subject value="4,2"/>
 			<subject value="4,3"/>
 		</tableobj>
-		<tableobj header="fourth">
+		<tableobj header="server">
 			<subject value="4,1"/>
 			<subject value="4,2"/>
 			<subject value="4,3"/>
