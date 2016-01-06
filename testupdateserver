@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo>
-<latestversionname id="versionname" versionname="1.11(2학기)"></latestversionname>
+<latestversionname id="versionname" versionname="3.11(DeV)"></latestversionname>
 <latestversion id="versioncode" version="20150816"></latestversion>
 <manualdownload id="manualdownload" value="true" ></manualdownload>
 <downloadedfilecheck id="filecheck" enabled="false" value="613731F3" apkversioncode="20150816"></downloadedfilecheck>
