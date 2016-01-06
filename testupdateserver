@@ -1,1 +1,38 @@
-Enter file content
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<updateinfo>
+<latestversionname id="versionname" versionname="1.11(2학기)"></latestversionname>
+<latestversion id="versioncode" version="20150816"></latestversion>
+<manualdownload id="manualdownload" value="false" ></manualdownload>
+<downloadedfilecheck id="filecheck" enabled="true" value="613731F3" apkversioncode="20150816"></downloadedfilecheck>
+<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile26.uf@242ABF4F55CEDEC321FEB9.apk</apkurl>
+<changelog id="changelog">
+<content id="changelogcontent">
+  ==1.11 ver==
+-진저브레드 실행불가 문제 수정
+
+  ==1.10 ver==
+-2학기 임시시간표로 변경
+
+-진저브레드지원(안드로이드 2.3)
+
+-일일 시간표알림이 기기재부팅시 동작안됨 현상수정(알림이 고치기 클릭)
+
+-수동시간표 백업/복구기능 추가
+
+-약간의 디자인 수정
+
+-랜덤색상기능 추가
+
+</content>
+<notices id="notices">
+<notice>-----------------------------</notice>
+<notice>※업데이트 도중 패키지 구문 분석 오류시 재다운로드 바람</notice>
+<notice> </notice>
+<notice>※모바일 환경(3G/LTE/LTE-A)에서 파일을 다운하게 되면 데이터가 소모되니 주의하세요.(약 1.9MB)/end_notice</notice>
+</notices>
+</changelog> 
+
+<Developer-Info id="dev_info" developer="HSH">http://hsh97.tistory.com</Developer-Info>
+</updateinfo>
+<!-- Its server isn`t encoded to any type,because I can easily fix some information by using any device which connected with internet-->
+<!-- Like Server -->
