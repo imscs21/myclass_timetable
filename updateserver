@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<updateinfo>
+<updateinfo docVersion="1.0">
 <latestversionname id="versionname" versionname="1.11(2학기)"></latestversionname>
 <latestversion id="versioncode" version="20150816"></latestversion>
 <manualdownload id="manualdownload" value="false" ></manualdownload>
