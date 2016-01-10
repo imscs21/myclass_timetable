@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<testtimetable 
+<testtimetable  docVersion="1.0"
 	startDateWithOneFormat="2015.11.12" endDateWithOneFormat="2016.12.10" 
 	testtype="중간고사" testterm="1학기"
 	order="order by 'tableobj' tag order" id="topelement">
