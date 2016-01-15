@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<!-- 주석 입니다 
+시작태그와 끝태그에 글을 넣을시 태그구분자 ◇ 를 입력하는 것은 오류를 초래하니 유의 바랍니다 -->
+<updateinfo docVersion="1.0">
+<!-- 현재 업데이트서버의 양식 버전은 1.0입니다 추후 양식이 업데이트 될수 있습니다-->
+<latestversionname id="versionname" versionname="1.11(버전을 입력하십시오)"></latestversionname>
+<latestversion id="versioncode" version="20150707(자연수 형식인 '년월일'으로 입력하십시오,실제 구분용입니다 )"></latestversion>
+<manualdownload id="manualdownload" value="false(boolean 형식으로 입력하십시오)" ></manualdownload>
+<downloadedfilecheck id="filecheck" enabled="true(boolean 형식으로 입력하십시오)" value="613731F3(hex string 형식으로 입력하십시오)" apkversioncode="20150816"></downloadedfilecheck>
+<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile26.uf@242ABF4F55CEDEC321FEB9.apk</apkurl>
+<!-- 업데이트될 apk의 다운로드 주소입니다 태그사이에 입력하세요 -->
+<changelog id="changelog">
+<content id="changelogcontent">
+  ==1.11 ver==
+업데이트로그를 입력하십시오
+
+</content>
+<!-- 업데이트 로그를 입력하는 구간입니다
+태그사이에 태그 구분자를 제외하고 입력하시고 띄어쓰기 자동 인식입니다 -->
+<notices id="notices">
+<!-- 유의 사항등 알려야할 최소 정보를 입력하는 공간입니다
+'notice' tag 를 사용해 추가,삭제,수정하십시오 -->
+<notice>-----------------------------</notice>
+<notice>※업데이트 도중 패키지 구문 분석 오류시 재다운로드 바람</notice>
+<notice> </notice>
+<notice></notice>
+</notices>
+</changelog> 
+
+<Developer-Info id="dev_info" developer="HSH">http://hsh97.tistory.com</Developer-Info>
+<!--개발자 정보입니다
+건들지마세요 -->
+</updateinfo>
