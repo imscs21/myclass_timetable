@@ -1,34 +1,30 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo docVersion="1.0">
-<latestversionname id="versionname" versionname="1.11(2학기)"></latestversionname>
+<latestversionname id="versionname" versionname="1.14"></latestversionname>
 <latestversion id="versioncode" version="20150816"></latestversion>
 <manualdownload id="manualdownload" value="false" ></manualdownload>
-<downloadedfilecheck id="filecheck" enabled="true" value="613731F3" apkversioncode="20150816"></downloadedfilecheck>
+<downloadedfilecheck id="filecheck" enabled="true" value="2DC6EF13" apkversioncode="20160120"></downloadedfilecheck>
 <apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile26.uf@242ABF4F55CEDEC321FEB9.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
-  ==1.11 ver==
--진저브레드 실행불가 문제 수정
+-메뉴바 너비 수정
 
-  ==1.10 ver==
--2학기 임시시간표로 변경
+-파일 탐색기에서 수동 시간표 파일 적용가능하게 구현
 
--진저브레드지원(안드로이드 2.3)
+-유저 커스텀 업데이트 서버설정 가능하게 수정(앱설정참고)
 
--일일 시간표알림이 기기재부팅시 동작안됨 현상수정(알림이 고치기 클릭)
+-진저브레드 UI개선
 
--수동시간표 백업/복구기능 추가
+-내부 코드 올바르게 수정및 추가
 
--약간의 디자인 수정
-
--랜덤색상기능 추가
+-중규모 업데이트를 위한 잡수정
 
 </content>
 <notices id="notices">
 <notice>-----------------------------</notice>
 <notice>※업데이트 도중 패키지 구문 분석 오류시 재다운로드 바람</notice>
 <notice> </notice>
-<notice>※모바일 환경(3G/LTE/LTE-A)에서 파일을 다운하게 되면 데이터가 소모되니 주의하세요.(약 1.9MB)/end_notice</notice>
+<notice>※모바일 환경(3G/LTE/LTE-A)에서 파일을 다운하게 되면 데이터가 소모되니 주의하세요.(약 2.2MB)/end_notice</notice>
 </notices>
 </changelog> 
 
