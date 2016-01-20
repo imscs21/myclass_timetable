@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <updateinfo docVersion="1.0">
 <latestversionname id="versionname" versionname="1.14"></latestversionname>
-<latestversion id="versioncode" version="20150816"></latestversion>
+<latestversion id="versioncode" version="20160120"></latestversion>
 <manualdownload id="manualdownload" value="false" ></manualdownload>
-<downloadedfilecheck id="filecheck" enabled="true" value="3C813194" apkversioncode="20160120"></downloadedfilecheck>
-<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile24.uf@2607623F569F95CC334ACB.apk</apkurl>
+<downloadedfilecheck id="filecheck" enabled="true" value="4F29B6A9" apkversioncode="20160120"></downloadedfilecheck>
+<apkurl id="apkurl">http://hsh97.tistory.com/attachment/cfile4.uf@232BD545569F99652A55C2.apk</apkurl>
 <changelog id="changelog">
 <content id="changelogcontent">
 -메뉴바 너비 수정
