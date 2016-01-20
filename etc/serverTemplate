@@ -2,7 +2,10 @@
 <!-- 주석 입니다 
 시작태그와 끝태그에 글을 넣을시 태그구분자 ◇ 를 입력하는 것은 오류를 초래하니 유의 바랍니다 -->
 <updateinfo docVersion="1.0">
+<!-- 주석 수정날짜 2016.1.19 -->
 <!-- 현재 업데이트서버의 양식 버전은 1.0입니다 추후 양식이 업데이트 될수 있습니다-->
+
+<!-- 시간표어플파일을 zip파일 처럼 열어서 res/raw/external_app_version.xml을 열어 버전코드(프로그램인식버전)와 버전네임(보여지는 버전)과 시간표 데이터 파일버전을 바꿀 수 있으며 res/raw/primary_core_data.dat는 sqlite형식으로 써 수정하면 됩니다  -->
 <latestversionname id="versionname" versionname="1.11(버전을 입력하십시오)"></latestversionname>
 <latestversion id="versioncode" version="20150707(자연수 형식인 '년월일'으로 입력하십시오,실제 구분용입니다 )"></latestversion>
 <manualdownload id="manualdownload" value="false(boolean 형식으로 입력하십시오)" ></manualdownload>
